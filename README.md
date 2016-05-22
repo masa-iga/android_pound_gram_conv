@@ -1,1 +1,5 @@
-# android_pound_gram_conv
+# Android basic application
+
+Build Your First Android App @ COURSERA
+
+Build the Application With Android Studio @ week 3
